@@ -6,6 +6,9 @@
 //  Copyright © 2017 Harshil Shah. All rights reserved.
 //
 
+import Foundation
+import CoreGraphics
+
 struct Constants {
     
     /// Default duration for present and dismiss animations when the user hasn't
